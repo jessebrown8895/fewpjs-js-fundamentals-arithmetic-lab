@@ -10,7 +10,6 @@ const num4 = 6;
 const mod = num3 % num4;
 
 
-let max = (1,2,4,15,20)
+let max = Math.max(1,2,4,15,20)
 
-max.math.max()
 // Write your code here
